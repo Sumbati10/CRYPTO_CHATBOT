@@ -2,6 +2,12 @@
 
 Welcome to **CryptoBuddy**, a friendly chatbot designed to help users get quick advice on cryptocurrencies based on simple predefined data. Perfect for beginners who want to explore crypto trends and sustainability without the complex jargon.
 
+
+## Demo Screenshot
+
+![Crypto Chatbot Demo](https://github.com/Sumbati10/CRYPTO_CHATBOT/blob/main/demoscreenshot.png)
+
+
 ---
 
 ## Features
